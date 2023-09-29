@@ -1,2 +1,1 @@
-# SampleApplication
-This is just sample application
+# complete-login-register-form-with-email-verification
